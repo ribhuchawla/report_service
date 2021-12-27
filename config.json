@@ -1,0 +1,8 @@
+{
+    "collection":"jigsaw",
+    "db_host":"localhost",
+    "db_user":"postgres",
+    "db_pw":"Gun125",
+    "db_port":"5432",
+    "db_name":"test"
+} 
